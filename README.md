@@ -1,22 +1,52 @@
+# 🔥 AI-Driven Micro-Wildfire Prediction and Evacuation Planning Using Multi-Modal Data Fusion
 
-Micro-wildfires, though frequently overlooked, can be very dangerous to ecosys-
-tems, infrastructure, and public safety—in particular, the increased speed of cli-
-mate change makes the situation worse. Detection systems, in particular, focus
-on large-scale fires and neglect to identify rapidly escalating smaller outbreaks. In
-this study, an AI-based framework is developed to predict micro-wildfires by fusing
-satellite imagery, weather data, and sensor data. The evaluation also incorporates
-Convolutional Neural Networks (CNNs) and Long Short-Term Memory Networks
-(LSTMs), as well as traditional ML models such as Logistic Regression, Random
-Forest, and XGBoost. CNNs achieved 92% accuracy and AUC of 0.94 , while
-LSTMs achieved 89% based on modeling temporal dependencies. Random For-
-est performed best on smaller datasets due to optimal precision.
-To advance equity, bias mitigation techniques such as GAN-based data aug-
-mentation and demographic parity algorithms were applied, resulting in reduc-
-ing the Equalized Odds disparity from 0.21 to 0.05 [9]. Cross-validation across
-wildfire-prone regions—including California, Australia, and the Mediterranean—
-demonstrated the framework’s generalizability. The combined edge and cloud-based
-adaptation of the AI system enhanced the scalability, accessibility, and adaptability
-to these high-risk regions for proactive, equitable wildfire detection and response.
-This work seeks to address the dual goals of protecting human life as well as
-the ecosystem, motivated by my desire to mitigate the economic repercussions of
-wildfires and my dedication to the responsible development of AI.
+![GitHub last commit](https://img.shields.io/github/last-commit/RheaGhosal/AI_Driven_Micro_Wildfire_Prediction_and_Evacuation_Planning_Using_Multi_Modal_Data_Fusion)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+
+> **Author**: Rhea Ghosal  
+> **Grade**: 10 | AI Researcher and Student Innovator  
+> **Paper**: [Read the Full Research Paper (PDF)](./AI_Driven_Micro_Wildfire_Prediction_and_Evacuation_Planning_Using_Multi_Modal_Data_Fusion_Final9.pdf)
+
+---
+
+## 📘 Overview
+
+Micro-wildfires pose critical threats to ecosystems and communities, yet are often missed by large-scale fire monitoring systems. This project proposes an AI-based framework combining **Convolutional Neural Networks (CNNs)**, **LSTMs**, and **Random Forests** using fused data from satellite imagery, weather systems, and sensor networks.
+
+Key innovations include:
+- **92% accuracy** using CNNs on spatial data
+- GAN-based **bias mitigation** improving Equalized Odds from 0.21 → 0.05
+- Edge deployment with **TensorFlow Lite** for IoT-based fire prevention
+
+---
+
+## 🧠 AI & ML Models Used
+
+- ✅ **Random Forest**: Interpretable, robust to missing data  
+- ⚡ **XGBoost**: Efficient and high-performing decision trees  
+- 🧠 **CNN**: Spatial feature extraction from satellite imagery  
+- ⏱ **LSTM**: Sequential prediction of wildfire progression  
+
+---
+
+## 🌍 Dataset Sources (Used in Full Research)
+
+- **MODIS Active Fire (NASA FIRMS)**
+- **NOAA Weather Data**: Temp, humidity, wind speed
+- **Ground Sensor Data**: Smoke, gas, thermal readings
+
+> ⚠️ _Note: The GitHub notebook uses **synthetic sample data** for illustration only. The research paper is based on real, publicly available data._
+
+---
+
+## 💻 Notebook Contents
+
+[➡️ Open the Notebook](https://github.com/RheaGhosal/AI_Driven_Micro_Wildfire_Prediction_and_Evacuation_Planning_Using_Multi_Modal_Data_Fusion/blob/main/Micro-WildfirePredictionAI.ipynb)
+
+```text
+Micro-WildfirePredictionAI.ipynb
+├── Data Preprocessing & Feature Engineering
+├── Model Training (Random Forest, LSTM)
+├── Fairness Evaluation (AIF360)
+├── Performance Metrics (Accuracy, AUC, ROC)
+└── Edge Deployment (TensorFlow Lite Conversion)
