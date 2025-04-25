@@ -50,3 +50,58 @@ Micro-WildfirePredictionAI.ipynb
 ├── Fairness Evaluation (AIF360)
 ├── Performance Metrics (Accuracy, AUC, ROC)
 └── Edge Deployment (TensorFlow Lite Conversion)
+
+
+
+## 📊 Key Results
+
+| Model        | Accuracy | AUC   | Best Use Case              |
+|--------------|----------|-------|-----------------------------|
+| CNN          | 92%      | 0.94  | Satellite-based imagery     |
+| LSTM         | 89%      | 0.91  | Sequential time series      |
+| Random Forest| 87%      | 0.89  | Feature importance + small data |
+
+✅ Bias Mitigation:
+- Equalized Odds ↓ from 0.21 → **0.05**
+- Demographic Parity ↓ from 0.18 → **0.02**
+
+---
+
+## ⚖️ Fairness and Equity
+
+This project emphasizes equitable technology for wildfire detection by:
+- Implementing **bias-aware models** (AIF360, GANs)
+- Enhancing accuracy in **underrepresented regions**
+- Measuring fairness using **Equalized Odds** and **Statistical Parity**
+
+---
+
+## 🚀 Edge AI & Deployment
+
+- Converted LSTM model to **TensorFlow Lite**
+- Supports deployment on **IoT sensor devices**
+- Suitable for rural, disconnected, or wildfire-prone zones
+
+---
+
+## 🌱 Future Enhancements
+
+- Integrate **Vision Transformers (ViT)** for better spatial features
+- Use **drone-based LiDAR and thermal sensors**
+- Deploy via **Federated Learning** for privacy and scale
+
+---
+
+## 📎 Citation
+
+If referencing this work, please cite:
+
+```bibtex
+@article{ghosal2025wildfire,
+  title={AI-Driven Micro-Wildfire Prediction and Evacuation Planning Using Multi-Modal Data Fusion},
+  author={Ghosal, Rhea},
+  year={2025},
+  note={High School AI Research Paper},
+  url={https://github.com/RheaGhosal/AI_Driven_Micro_Wildfire_Prediction_and_Evacuation_Planning_Using_Multi_Modal_Data_Fusion}
+}
+
