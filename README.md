@@ -5,7 +5,7 @@
 
 > **Author**: Rhea Ghosal  
 > **Grade**: 10 | AI Researcher and Student Innovator  
-> **Paper**: [Read the Full Research Paper (PDF)](./AI_Driven_Micro_Wildfire_Prediction_and_Evacuation_Planning_Using_Multi_Modal_Data_Fusion_Final9.pdf)
+> **Paper**: [Read the Full Research Paper (PDF)](./AI_Driven_Micro_Wildfire_Prediction_and_Evacuation_Planning_Using_Multi_Modal_Data_Fusion.pdf)
 
 ---
 
