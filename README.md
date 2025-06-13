@@ -7,7 +7,7 @@ https://www.techrxiv.org/users/932476/articles/1303271-ai-driven-micro-wildfire-
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
 > **Author**: Rhea Ghosal  
-> **Grade**: 10 | AI Researcher and Student Innovator  
+> **Grade**: Junior(11th) | AI Researcher and Student Innovator  
 > **Paper**: [Read the Full Research Paper (PDF)](./AI_Driven_Micro_Wildfire_Prediction_and_Evacuation_Planning_Using_Multi_Modal_Data_Fusion.pdf)
 
 ---
