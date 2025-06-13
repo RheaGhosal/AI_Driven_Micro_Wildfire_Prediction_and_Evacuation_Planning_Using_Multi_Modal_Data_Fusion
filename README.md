@@ -1,6 +1,7 @@
 # 🔥 AI-Driven Micro-Wildfire Prediction and Evacuation Planning Using Multi-Modal Data Fusion
 
 DOI: 10.36227/techrxiv.174961871.12313030/v1
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15660249.svg)](https://doi.org/10.5281/zenodo.15660249) 
 
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/RheaGhosal/AI_Driven_Micro_Wildfire_Prediction_and_Evacuation_Planning_Using_Multi_Modal_Data_Fusion)
