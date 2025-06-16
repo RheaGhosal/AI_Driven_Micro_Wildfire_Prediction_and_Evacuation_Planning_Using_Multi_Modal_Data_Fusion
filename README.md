@@ -8,7 +8,7 @@ DOI: 10.36227/techrxiv.174961871.12313030/v1
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
 > **Author**: Rhea Ghosal  
-             IEEE Student Member
+             Independent Researcher | IEEE Student Member
 > **Paper**: [Read the Full Research Paper (PDF)][(https://www.techrxiv.org/users/932476/articles/1303271-ai-driven-micro-wildfire-prediction-and-evacuation-planning-using-multi-modal-data-fusion]
 
 ---
