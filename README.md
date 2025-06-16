@@ -95,7 +95,7 @@ This project emphasizes equitable technology for wildfire detection by:
 - Deploy via **Federated Learning** for privacy and scale
 
 ---
-## 📎 Citation (Paper)
+## 📎 Citation (Preprint)
 
 If referencing this research paper, please cite:
 
@@ -110,12 +110,10 @@ If referencing this research paper, please cite:
   url          = {https://doi.org/10.36227//techrxiv.174961871.12313030/v1}
 }
  
-
 ---
 
-#### 💾 Citation (for citing the *code*)
-```markdown
-## 💾 Citation (Code)
+
+## Citation (Code)
 
 To reference the codebase specifically, use:
 
