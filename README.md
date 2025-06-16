@@ -95,17 +95,39 @@ This project emphasizes equitable technology for wildfire detection by:
 - Deploy via **Federated Learning** for privacy and scale
 
 ---
+## 📎 Citation (Paper)
 
-## 📎 Citation
-
-If referencing this work, please cite:
+If referencing this research paper, please cite:
 
 ```bibtex
-@article{ghosal2025wildfire,
-  title={AI-Driven Micro-Wildfire Prediction and Evacuation Planning Using Multi-Modal Data Fusion},
-  author={Ghosal, Rhea},
-  year={2025},
-  note={High School AI Research Paper},
-  url={https://github.com/RheaGhosal/AI_Driven_Micro_Wildfire_Prediction_and_Evacuation_Planning_Using_Multi_Modal_Data_Fusion}
+@misc{ghosal2025wildfire,
+  author       = {Rhea Ghosal},
+  title        = {{AI-Driven Micro-Wildfire Prediction and Evacuation Planning Using Multi-Modal Data Fusion}},
+  year         = {2025},
+  publisher    = {TechRxiv},
+  note         = {Preprint},
+  doi          = {10.36227/techrxiv.174961871.12313030/v1},
+  url          = {https://doi.org/10.36227//techrxiv.174961871.12313030/v1}
 }
+ 
+
+---
+
+#### 💾 Citation (for citing the *code*)
+```markdown
+## 💾 Citation (Code)
+
+To reference the codebase specifically, use:
+
+```bibtex
+@software{ghosal2025code,
+  author       = {Rhea Ghosal},
+  title        = {{AI-Driven Micro-Wildfire Prediction and Evacuation Planning Using Multi-Modal Data Fusion (Code Repository)}},
+  year         = {2025},
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.15660249},
+  url          = {https://doi.org/10.5281/zenodo.15660249}
+}
+
+
 
